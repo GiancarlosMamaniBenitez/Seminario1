@@ -1,0 +1,11 @@
+path: /content/drive/MyDrive/2024-1/Seminario1/ProyectoTesis/fruitsYolov8/data
+train: /content/drive/MyDrive/2024-1/Seminario1/ProyectoTesis/fruitsYolov8/data/images/train
+val: /content/drive/MyDrive/2024-1/Seminario1/ProyectoTesis/fruitsYolov8/data/images/val
+
+
+
+names:
+  0: durazno
+  1: mandarina
+  2: manzana
+  3: platano
