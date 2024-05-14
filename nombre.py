@@ -27,9 +27,9 @@ def rename_files(directory, start_num, increment):
 
 # Directorio donde se encuentran los archivos
 #directory = 'C:\\Users\\redes\\Downloads\\12'
-directory = r'C:\Users\Giancarlos\Documents\Platano 4-samples'
+directory = r'/media/pi/Maxell8/DataAugmentationSalida/data/platano'
 # Número inicial para el nombre de archivo
-start_num = 220
+start_num = 469
 
 # Incremento para el nombre de archivo (la razón)
 increment = 1
