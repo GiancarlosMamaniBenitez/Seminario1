@@ -27,12 +27,12 @@ def rename_files(directory, start_num, increment):
 
 # Directorio donde se encuentran los archivos
 #directory = 'C:\\Users\\redes\\Downloads\\12'
-directory = r'/media/pi/Maxell8/DataAugmentationSalida/data/platano'
+directory = r'C:\Users\redes\Downloads\12'
 # Número inicial para el nombre de archivo
-start_num = 469
+start_num = 12
 
 # Incremento para el nombre de archivo (la razón)
-increment = 1
+increment = 5
 
 # Llamar a la función para cambiar los nombres de los archivos
 rename_files(directory, start_num, increment)
