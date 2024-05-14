@@ -1,7 +1,7 @@
-path: /content/drive/MyDrive/2024-1/Seminario1/ProyectoTesis/fruitsYolov8/data
-train: /content/drive/MyDrive/2024-1/Seminario1/ProyectoTesis/fruitsYolov8/data/images/train
-val: /content/drive/MyDrive/2024-1/Seminario1/ProyectoTesis/fruitsYolov8/data/images/val
-
+path: /media/pi/Maxell8/Dataset/Dataset/modelData
+train: /media/pi/Maxell8/Dataset/Dataset/modelData/images/train
+val: /media/pi/Maxell8/Dataset/Dataset/modelData/images/val
+test: /media/pi/Maxell8/Dataset/Dataset/modelData/images/test 
 
 
 names:
