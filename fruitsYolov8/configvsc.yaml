@@ -1,14 +1,9 @@
-<<<<<<< HEAD
+
 path: /media/pi/Maxell8/Dataset/Dataset/modelData
 train: /media/pi/Maxell8/Dataset/Dataset/modelData/images/train
 val: /media/pi/Maxell8/Dataset/Dataset/modelData/images/val
 test: /media/pi/Maxell8/Dataset/Dataset/modelData/images/test 
-=======
-path: /content/drive/MyDrive/2024-1/Seminario1/ProyectoTesis/fruitsYolov8/data
-train: /content/drive/MyDrive/2024-1/Seminario1/ProyectoTesis/fruitsYolov8/data/images/train
-val: /content/drive/MyDrive/2024-1/Seminario1/ProyectoTesis/fruitsYolov8/data/images/val
 
->>>>>>> b9ee918dda04c5a81b25d0b14b14ad194f7953a7
 
 
 names:
