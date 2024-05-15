@@ -1,0 +1,12 @@
+path: /media/pi/Maxell8/Dataset/Dataset/modelData
+train: /media/pi/Maxell8/Dataset/Dataset/modelData/images/train
+val: /media/pi/Maxell8/Dataset/Dataset/modelData/images/val
+test: /media/pi/Maxell8/Dataset/Dataset/modelData/images/test 
+
+
+
+names:
+  0: durazno
+  1: mandarina
+  2: manzana
+  3: platano
